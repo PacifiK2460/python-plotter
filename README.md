@@ -13,3 +13,5 @@ Run the code | Ejecuta el codigo
 ``` shell
 python main.py
 ```
+
+![Graficador](image.png)
